@@ -1,0 +1,13 @@
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Interface POO\AulaPOO-Interface\bin\Debug\netcoreapp3.1\AulaPOO-Interface.exe
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Interface POO\AulaPOO-Interface\bin\Debug\netcoreapp3.1\AulaPOO-Interface.deps.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Interface POO\AulaPOO-Interface\bin\Debug\netcoreapp3.1\AulaPOO-Interface.runtimeconfig.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Interface POO\AulaPOO-Interface\bin\Debug\netcoreapp3.1\AulaPOO-Interface.runtimeconfig.dev.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Interface POO\AulaPOO-Interface\bin\Debug\netcoreapp3.1\AulaPOO-Interface.dll
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Interface POO\AulaPOO-Interface\bin\Debug\netcoreapp3.1\AulaPOO-Interface.pdb
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Interface POO\AulaPOO-Interface\obj\Debug\netcoreapp3.1\AulaPOO-Interface.csprojAssemblyReference.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Interface POO\AulaPOO-Interface\obj\Debug\netcoreapp3.1\AulaPOO-Interface.AssemblyInfoInputs.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Interface POO\AulaPOO-Interface\obj\Debug\netcoreapp3.1\AulaPOO-Interface.AssemblyInfo.cs
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Interface POO\AulaPOO-Interface\obj\Debug\netcoreapp3.1\AulaPOO-Interface.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Interface POO\AulaPOO-Interface\obj\Debug\netcoreapp3.1\AulaPOO-Interface.dll
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Interface POO\AulaPOO-Interface\obj\Debug\netcoreapp3.1\AulaPOO-Interface.pdb
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Interface POO\AulaPOO-Interface\obj\Debug\netcoreapp3.1\AulaPOO-Interface.genruntimeconfig.cache
